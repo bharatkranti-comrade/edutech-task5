@@ -1,0 +1,11 @@
+TASK 5 STATISTICAL REPORT
+
+1. Descriptive Statistics:
+   - Group A (Traditional Paper) Mean: 70.15 | Median: 70.5 | Mode: 70
+   - Group B (Computer Spreadsheet) Mean: 77.75 | Median: 78.5 | Mode: 79
+
+2. Hypothesis Testing:
+   - The T-test calculated a final P-Value of 0.00001.
+   
+3. Final Conclusion:
+   - Because the P-Value is much lower than 0.05, we conclude that the new computer spreadsheet changes are highly successful, statistically valid, and meaningful.
